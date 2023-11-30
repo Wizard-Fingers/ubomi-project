@@ -1,4 +1,4 @@
-import image from "../../assets/Events_Management.jpeg";
+import image from "../../assets/Events_Management.png";
 
 const EventsManagement = () => {
   return (
