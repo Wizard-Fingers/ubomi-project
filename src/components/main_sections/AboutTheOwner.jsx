@@ -1,5 +1,5 @@
-import lindiwePicture from "../../assets/Lidiwe.jpeg";
-import art from "../../assets/Art_Lindiwe_Cook.png";
+import lindiwePicture from "../../assets/Lidiwe.png";
+import art from "../../assets/Lindiwe_Cook.png";
 
 const AboutTheOwner = () => {
   return (
